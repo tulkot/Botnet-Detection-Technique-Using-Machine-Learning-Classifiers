@@ -1,4 +1,4 @@
-# Botnet-Detection
+# Botnet-Detection-Technique-Using-Machine-Learning-Classifiers
 
 A P2P botnet detection system using machine learning classifiers, decision tree mainly.
 
